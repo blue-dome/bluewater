@@ -1,8 +1,6 @@
 /*
  * Simple C++ program
  */
-//#include <iostream.h>
-
 #include <iostream>
 #include <sstream>
 using namespace std;
