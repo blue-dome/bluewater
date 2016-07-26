@@ -1,3 +1,4 @@
+/** this is a comment **/
 main(int argc, char *argv[])
 {
  int i;
