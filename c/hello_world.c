@@ -1,5 +1,5 @@
 /** this is a comment **/
-/** added a new comment **/
+/** added a new comment from GP **/
 main(int argc, char *argv[])
 {
  int i;
