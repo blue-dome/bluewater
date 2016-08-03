@@ -1,4 +1,4 @@
 #  bluewater
-- doing no real work
+- doing no *real* work
 - playing with github
 - learning github
