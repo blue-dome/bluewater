@@ -1,6 +1,7 @@
 /*
  * Simple C++ program
  */
+// added a comment line
 #include <iostream>
 #include <sstream>
 using namespace std;
